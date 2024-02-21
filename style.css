@@ -8,17 +8,35 @@
     font-size: 30px;
 }
 
+a,
+.home{
+    display: inline-block;
+    height: auto;
+    width: 500px;
+}
+
+.mozz.home{
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+.cauli.home{
+    margin-left: 180px;
+
+}
+
+.chicken.home{
+    margin-left: 60px;
+}
+
 .mozz {
-    color: rgb(149, 227, 149);
-    background-color: rgba(253, 7, 7, 0.756);
+    color: rgb(230, 20, 17);
 }
 
 .cauli{
-    color: rgb(56, 57, 57);
-    background-color: rgb(35, 232, 232);
+    color: rgb(5, 164, 164);
 }
 
 .chicken{
-    color: rgb(245, 239, 47);
-    background-color: rgba(249, 65, 222, 0.986);
+    color: rgb(245, 182, 10);
 }
